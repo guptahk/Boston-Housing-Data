@@ -7,7 +7,7 @@ Boston Housing Variable Selection.R
 
 A linear regression model is built and then best model is selected using AIC, BIC, and LASSO.
 Out of sample performance is checked.
-5 fold cross validation is done on 100% of the data set to compare results with previous model.
+3 fold cross validation is done on 100% of the data set to compare results with previous model.
 
 
 LRTree.R
